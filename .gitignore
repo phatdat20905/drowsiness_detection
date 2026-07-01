@@ -1,0 +1,18 @@
+# Byte-cấp / tệp đã biên dịch
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (Virtual Environments)
+.venv/
+
+# Cấu hình IDE và Trình soạn thảo
+.vscode/
+.idea/
+
+# Tệp nhật ký và cơ sở dữ liệu
+*.log
+*.sqlite3
+
+# Tệp cá nhân / Thông tin nhạy cảm
+.env
