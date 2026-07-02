@@ -16,3 +16,8 @@ __pycache__/
 
 # Tệp cá nhân / Thông tin nhạy cảm
 .env
+
+dataset/
+dataset_raw/    
+
+logs/
